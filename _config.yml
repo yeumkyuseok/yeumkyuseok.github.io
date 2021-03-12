@@ -94,7 +94,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Artist/ Architect"
+  name             : "Artist / Architect"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Major in Software Engineering."
   location         : "Korea, South"
