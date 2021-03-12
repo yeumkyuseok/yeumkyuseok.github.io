@@ -94,7 +94,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yeum Kyu Seok"
+  name             : "Architect"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Major in Software Engineering."
   location         : "Korea, South"
@@ -102,7 +102,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:yeumkyuseok@gmail.com"
+      # url: "mailto:yeumkyuseok@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -114,10 +114,10 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/yeumkyuseok"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://www.instagram.com/kyuseok_y/"
 
 # Site Footer
 footer:
