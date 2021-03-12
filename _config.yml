@@ -94,7 +94,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Artist/Architect"
+  name             : "Artist/ Architect"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Major in Software Engineering."
   location         : "Korea, South"
@@ -103,7 +103,7 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:yeumkyuseok@gmail.com"
-    - label: "Website"
+    - label: "tech-blog"
       icon: "fas fa-fw fa-link"
       url: "https://yeumkyuseok.blogspot.com"
     - label: "Twitter"
