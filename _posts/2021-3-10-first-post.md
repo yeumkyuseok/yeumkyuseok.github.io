@@ -6,11 +6,11 @@ categories: thoughts
 Welcome to my blog!
 
 
-I feel extremely lucky and blessed that you visited to my blog.
+I feel extremely lucky and blessed that you have visited to my blog.
 
 
-I am a person with so many thoughts yet they are not expressed physically, 
-I am looking forward that this blog will be an opportunity to share my thoughts and inspirations to another.
+I am a person with many thoughts yet they are not expressed physically, 
+I look forward on this blog that it will be an opportunity to share my thoughts and inspirations to another.
 
 
 ```
